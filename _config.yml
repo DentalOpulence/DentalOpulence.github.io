@@ -53,3 +53,11 @@ github_username:  dentalopulence
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  # press releases
+  - scope:
+      path: "_posts/pressreleases"
+      type: posts
+    values:
+      permalink: press/:year-:month-:day-:title
