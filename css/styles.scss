@@ -15,12 +15,12 @@
 }
 
 .navbar:hover {
-    background-color: white!important;
+    background-color: black!important;
     transition: all .2s;
 }
 .navbar:hover .nav-link,
 .navbar:hover .navbar-brand {
-    color: black;
+    color: white;
     transition: all .2s;
 }
 
