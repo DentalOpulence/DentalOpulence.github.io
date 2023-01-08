@@ -1,0 +1,12 @@
+{% assign result = '' %}
+{% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+{% assign result = site.title %}
+{% for crumb in crumbs offset: 1 %}
+  {% if forloop.last %}
+    {% assign result = page.title | append: ' | ' | append: result %}
+  {% else %}
+  {% capture head %}{{crumb | replace:'-',' ' | remove:'.html' | capitalize}}{% endcapture %}
+    {% assign result = head | append: ' | ' | append: result %}
+  {% endif %}
+{% endfor %}
+{{result}}
