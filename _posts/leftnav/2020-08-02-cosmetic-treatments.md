@@ -2,7 +2,7 @@
 categories: [leftnav]
 permalink: /:title.html
 layout: page
-title:  "Prices"
+title:  "Cosmetic Treatments"
 hero-heading: "Our current fee structure"
 hero-brief: "Some representative placeholder content for the first slide"
 hero-button: "Learn More"
