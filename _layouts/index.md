@@ -22,7 +22,7 @@ layout: root
 </div>
 </div>
 
-<div class="container-fluid pt-5">
+<div class="container-fluid pt-5  bg-accent-prime">
   <div class="container py-5">
     {{content}}
   </div>

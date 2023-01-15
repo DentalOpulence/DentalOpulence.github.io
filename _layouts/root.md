@@ -22,14 +22,14 @@
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
       {% for post in site.categories.leftnav %}
         <li class="nav-item">
-          <a class="nav-link text-uppercase fw-bold" href="{{post.url}}">{{post.title}}</a>
+          <a class="nav-link text-uppercase fw-bold px-3 px-sm-3 px-md-3" href="{{post.url}}">{{post.title}}</a>
         </li>
       {% endfor %}
       </ul>
-      <ul class="navbar-nav">
+      <ul class="navbar-nav d-lg-none d-xl-flex">
       {% for post in site.categories.rightnav %}
         <li class="nav-item">
-          <a class="nav-link" href="{{post.url}}">{{post.title}}</a>
+          <a class="nav-link px-3 px-sm-3 px-md-3" href="{{post.url}}">{{post.title}}</a>
         </li>
       {% endfor %}
         </ul>    </div>
@@ -37,7 +37,7 @@
 </nav>
     {{content}}
 
-<div class="container-fluid bg-dark text-white-50 p-5 footer">
+<div class="container-fluid bg-dark text-white-50 p-5 footer bg-accent-prime-reverse">
     <div class="row g-0">
         <div class="col-sm-12 col-md-3 text-center text-sm-center text-md-start g-0">
             <p class="py-3 text-light">[Dental Opulence Logo]&#8482;</p>
