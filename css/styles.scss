@@ -116,10 +116,12 @@ max-height: 600px;
     }
 
     .svglogo {
+        font-family: "Baloo 2";
+        font-weight: 500;
         fill: gray;
 
         .tm {
-            top: -0.53rem;
+            top: -0.6rem;
             position: relative;
             color: gray;
         }
