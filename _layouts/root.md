@@ -21,18 +21,18 @@
     <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <div class="collapse navbar-collapse py-5 py-md-3" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
       {% for post in site.categories.leftnav %}
         <li class="nav-item">
-          <a class="nav-link text-uppercase fw-bold px-3 px-sm-3 px-md-3" href="{{post.url}}">{{post.title}}</a>
+          <a class="nav-link text-uppercase fw-bold px-3 px-sm-3 px-md-3 py-4 py-md-3" href="{{post.url}}">{{post.title}}</a>
         </li>
       {% endfor %}
       </ul>
       <ul class="navbar-nav d-lg-none d-xl-flex">
       {% for post in site.categories.rightnav %}
         <li class="nav-item">
-          <a class="nav-link px-3 px-sm-3 px-md-3" href="{{post.url}}">{{post.title}}</a>
+          <a class="nav-link px-3 px-sm-3 px-md-3 py-4 py-md-3" href="{{post.url}}">{{post.title}}</a>
         </li>
       {% endfor %}
         </ul>    </div>
