@@ -162,8 +162,18 @@ max-height: 600px;
     font-family: "Baloo 2";
     font-weight: 500;
 
-    svg {
-        fill: white;
-        padding: 0.8rem 0.8rem 0.8rem 0;
+    .svglogo {
+        
+
+        svg {
+            fill: white;
+            padding: 0.8rem 0 0.8rem 0;
+        }
+
+        .tm {
+            padding-right: 0.8rem;
+            top: -0.6rem;
+            position: relative;
+        }
     }
 }
