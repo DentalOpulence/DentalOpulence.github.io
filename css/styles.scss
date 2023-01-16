@@ -7,6 +7,16 @@
 .navbar {
     background-color: transparent!important;
     transition: all .2s;
+    background-image: linear-gradient(black, transparent);
+
+    .navbar-toggler {
+        background-color: #ffffff!important;
+        padding: 0.1rem 0.5rem;
+
+        .navbar-toggler-icon {
+            width: 1rem;
+        }
+    }
 }
 .navbar .nav-link,
 .navbar .navbar-brand {
@@ -104,6 +114,10 @@ max-height: 600px;
     .fa:hover {
         background-color: white;
     }
+
+    .svglogo {
+        fill: gray;
+    }
 }
 
 .splash {
@@ -141,5 +155,14 @@ max-height: 600px;
 
     a {
         color: #a0a0a0;
+    }
+}
+
+.logo {
+    font-family: "Baloo 2";
+
+    svg {
+        fill: white;
+        padding: 0.8rem;    
     }
 }
