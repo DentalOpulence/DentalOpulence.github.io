@@ -106,7 +106,7 @@ var scrollDir = (function (oldOffset, lastOffset, oldDir) {
     };
 }());
 
-var header = document.querySelector('.header');
+var header = document.querySelector('.headerss');
 var height = header.clientHeight;
 
 $(window).scroll(function () {
@@ -120,8 +120,8 @@ $(window).scroll(function () {
     max = scrollY<height?0:max;
     
 
-    $('.header').data('size', 'small');
-    $('.header').stop().animate({
+    $('.headerss').data('size', 'small');
+    $('.headerss').stop().animate({
         top: max
     }, 60);
 

@@ -22,8 +22,8 @@ layout: root
 </div>
 </div>
 
-<div class="container-fluid pt-3  bg-accent-prime-long">
-  <div class="container">
+<div class="container-fluid pt-3  bg-accent-prime-long g-0">
+  <div class="container g-0">
     {{content}}
 
 
@@ -66,12 +66,14 @@ layout: root
   <div class="row">
     <h3 class="col-9 col-md-10 fs-3 fw-lighter">Press Releases</h3>
     <a class="mb-4 col-3 col-md-2 btn btn-outline-light" role="button">View All</a>
-    {% for post in site.categories.press limit:4 %}
+    <div class="row side-scroll">
+    {% for post in site.categories.press limit:12 %}
     <div class="py-3 col-lg-3 col-md-6 col-sm-6">
       <p class="fs-6 fw-lighter">{{ post.date | date: '%B %d, %Y' }}</p>
       <p><a href="{{post.url}}" class="text-decoration-none text-light">{{post.brief}}</a></p>
     </div>
     {% endfor %}
+    </div>
   </div>
 </div>
 
@@ -82,12 +84,14 @@ layout: root
   <div class="row">
     <h3 class="col-9 col-md-10 fs-3 fw-lighter">Blog Posts</h3>
     <a class="mb-4 col-3 col-md-2 btn btn-outline-light" role="button">View All</a>
-    {% for post in site.categories.press limit:4 %}
+    <div class="row side-scroll">
+    {% for post in site.categories.press limit:12 %}
     <div class="py-3 col-lg-3 col-md-6 col-sm-6">
       <p class="fs-6 fw-lighter">{{ post.date | date: '%B %d, %Y' }}</p>
       <p><a href="{{post.url}}" class="text-decoration-none text-light">{{post.title}}</a></p>
     </div>
     {% endfor %}
+  </div>
   </div>
 </div>
 

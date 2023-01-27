@@ -25,12 +25,14 @@
     font-size: 0.8rem;
 }
 
-.navbar:hover {
+//.navbar:hover {
+.navbar:has(div.show) {
     background-color: black!important;
     transition: all .2s;
 }
-.navbar:hover .nav-link,
-.navbar:hover .navbar-brand {
+//.navbar:hover {
+.navbar:has(div.show) .nav-link,
+.navbar:has(div.show) .navbar-brand {
     color: white;
     transition: all .2s;
 }
@@ -92,11 +94,13 @@ max-height: 600px;
 }
 
 .subsection-press {
-    background-color: #7c7c7c; //#2a53a2;
+    //background-color: #7c7c7c; //#2a53a2;
+    background: linear-gradient(90deg, transparent, #3d454c, transparent);
 }
 
 .subsection-blog {
-    background-color: #7c7c7c; //#2aa274;
+    //background-color: #7c7c7c; //#2aa274;
+    background: linear-gradient(90deg, transparent, #3d454c, transparent);
 }
 
 .footer {
@@ -191,4 +195,12 @@ max-height: 600px;
             font-size: 0.6rem;
         }
     }
+}
+
+.side-scroll {
+    flex-wrap: initial;
+    overflow-x: scroll;
+    border-left: 1px solid #3d454c;
+    border-right: 1px solid #3d454c;
+    margin-left: 0rem;
 }

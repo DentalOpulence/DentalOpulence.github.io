@@ -11,5 +11,5 @@ subsection-heading: "View our referral program"
 subsection-brief: "Learn about our referral program and how you can bring a smile to everyone around you"
 subsection-button: "Find out more"
 subsection-image: https://images.unsplash.com/photo-1488508872907-592763824245?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
-subsection-color: "#3a3a3a" #0285bb
+subsection-color: "#3d454c" #3a3a3a" #0285bb"
 ---
