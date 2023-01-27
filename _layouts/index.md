@@ -22,18 +22,20 @@ layout: root
 </div>
 </div>
 
-<div class="container-fluid pt-5  bg-accent-prime">
-  <div class="container py-5">
+<div class="container-fluid pt-3  bg-accent-prime-long">
+  <div class="container">
     {{content}}
-  </div>
-</div>
+
 
       {% for post in site.categories.leftnav %}
       {% assign remainder = forloop.index | modulo: 2 %}
   <div class="container py-5 text-light subsection g-5">
     <div class="row" style="background-color:{{post.subsection-color}}">
       {% if remainder == 1 %}
-      <div class="col-md-6 p-5 my-5">
+      <div class="col-md-6 bg-primary text-light g-0 d-block d-md-none">
+        <img src="{{post.subsection-image}}" class="d-block w-100" alt="...">
+      </div>
+      <div class="col-md-6 p-0 my-0 p-md-5 my-md-5">
         <div class="p-5">
           <h2>{{post.subsection-heading}}</h2>
           <p>{{post.subsection-brief}}</p>
@@ -44,10 +46,10 @@ layout: root
         <img src="{{post.subsection-image}}" class="d-block w-100" alt="...">
       </div>
       {% else %}
-      <div class="col-md-6 bg-primary text-light g-0 d-none d-sm-none d-md-block">
+      <div class="col-md-6 bg-primary text-light g-0">
         <img src="{{post.subsection-image}}" class="d-block w-100" alt="...">
       </div>
-      <div class="col-md-6 p-5 my-5">
+      <div class="col-md-6 p-0 my-0 p-md-5 my-md-5">
         <div class="p-5">
           <h2>{{post.subsection-heading}}</h2>
           <p>{{post.subsection-brief}}</p>
@@ -95,4 +97,7 @@ layout: root
 
 
 
+</div>
+
+  </div>
 </div>
