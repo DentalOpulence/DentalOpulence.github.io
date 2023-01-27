@@ -204,3 +204,9 @@ max-height: 600px;
     border-right: 1px solid #3d454c;
     margin-left: 0rem;
 }
+
+.collapsing {
+    -webkit-transition: none;
+    transition: none;
+    display: none;
+}
