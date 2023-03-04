@@ -1,6 +1,6 @@
 <div class="container-fluid p-3 py-5 p-sm-5 text-light subsection-press">
     <div class="row">
-      <h3 class="col-9 col-md-10 fs-3 fw-lighter">{{include.title}}</h3>
+      <h3 class="ps-4 col-8 col-md-10 fs-3 fw-lighter">{{include.title}}</h3>
       <a class="mb-4 col-3 col-md-2 btn btn-outline-light" role="button">View All</a>
       <div class="row side-scroll">
       {% assign press_pages = site.pages | where:"type", include.type | sort: "sort" %}
