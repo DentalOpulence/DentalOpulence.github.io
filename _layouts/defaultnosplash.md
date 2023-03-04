@@ -12,7 +12,9 @@ layout: root
                         <li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
                         </ol>
                     </nav>
-                    {{content}}
+                    <div class="general-content">
+                        {{content}}
+                    </div>
                 </div>
                 <div class="col-lg-3 pt-5">
                     {% include pagecards.html type=page.sidetype limit="3" %}
