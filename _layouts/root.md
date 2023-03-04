@@ -18,7 +18,7 @@
   <body>
   <nav class="p-3 navbar header fixed-top navbar-expand-lg bg-light">
   <div class="container-fluid">
-    <a class="navbar-brand py-1 logo pe-4" href="/index.html"><span class="svglogo"><svg xmlns="http://www.w3.org/2000/svg" width="60" viewBox="0 0 392 203"><path d="M189,101.5A101.5,101.5,0,1,1,290.5,203,101.5,101.5,0,0,1,189,101.5ZM0,203V0H75.443A102.392,102.392,0,0,1,95.91,2.062a101.052,101.052,0,0,1,36.314,15.273,101.8,101.8,0,0,1,36.795,44.656,101,101,0,0,1,5.917,19.053,102.455,102.455,0,0,1,0,40.911,100.913,100.913,0,0,1-15.281,36.293,101.843,101.843,0,0,1-44.682,36.774,101.09,101.09,0,0,1-19.063,5.915A102.392,102.392,0,0,1,75.443,203Z"/></svg><span class="tm">&reg;</span></span>Dental Opulence<!--&reg;--><!--<span class="fs-6 fw-light">&reg;</span>--></a>
+    <a class="navbar-brand py-1 logo pe-4" href="/"><span class="svglogo"><svg xmlns="http://www.w3.org/2000/svg" width="60" viewBox="0 0 392 203"><path d="M189,101.5A101.5,101.5,0,1,1,290.5,203,101.5,101.5,0,0,1,189,101.5ZM0,203V0H75.443A102.392,102.392,0,0,1,95.91,2.062a101.052,101.052,0,0,1,36.314,15.273,101.8,101.8,0,0,1,36.795,44.656,101,101,0,0,1,5.917,19.053,102.455,102.455,0,0,1,0,40.911,100.913,100.913,0,0,1-15.281,36.293,101.843,101.843,0,0,1-44.682,36.774,101.09,101.09,0,0,1-19.063,5.915A102.392,102.392,0,0,1,75.443,203Z"/></svg><span class="tm">&reg;</span></span>Dental Opulence<!--&reg;--><!--<span class="fs-6 fw-light">&reg;</span>--></a>
     <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -33,49 +33,8 @@
 </nav>
     {{content}}
 
-<div class="container-fluid bg-dark text-white-50 p-5 footer bg-accent-prime-reverse">
-    <div class="row g-0">
-        <div class="col-sm-12 col-md-3 text-center text-sm-center text-md-start g-0">
-            <p class="py-3 text-light"><span class="svglogo"><svg xmlns="http://www.w3.org/2000/svg" width="60" viewBox="0 0 392 203"><path d="M189,101.5A101.5,101.5,0,1,1,290.5,203,101.5,101.5,0,0,1,189,101.5ZM0,203V0H75.443A102.392,102.392,0,0,1,95.91,2.062a101.052,101.052,0,0,1,36.314,15.273,101.8,101.8,0,0,1,36.795,44.656,101,101,0,0,1,5.917,19.053,102.455,102.455,0,0,1,0,40.911,100.913,100.913,0,0,1-15.281,36.293,101.843,101.843,0,0,1-44.682,36.774,101.09,101.09,0,0,1-19.063,5.915A102.392,102.392,0,0,1,75.443,203Z"/></svg><span class="tm">&reg;</span></span><!--Dental Opulence--></p>
-        </div>
-        <div class="row col-sm-6 col-md-6 text-center text-md-start g-0 pb-3">
-            <p class="text-uppercase fw-bold py-3 text-light">Quick Links</p>
-            <div class="col-md-6 g-0">
-                <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link py-1" href="/index.html">Home</a></li>
-                {% for post in site.categories.leftnav %}
-                    <li class="nav-item"><a class="nav-link py-1" href="{{post.url}}">{{post.title}}</a></li>
-                {% endfor %}
-                </ul>
-            </div>
-            <div class="col-md-6 g-0">
-                <ul class="navbar-nav">
-                {% for post in site.categories.rightnav %}
-                    <li class="nav-item"><a class="nav-link py-1" href="{{post.url}}">{{post.title}}</a></li>
-                {% endfor %}
-                {% for post in site.categories.other %}
-                    <li class="nav-item"><a class="nav-link py-1" href="{{post.url}}">{{post.title}}</a></li>
-                {% endfor %}
-                </ul>
-            </div>
-        </div>
-        <div class="col-sm-6 col-md-3 text-center text-md-start g-0 pb-3">
-            <p class="text-uppercase fw-bold py-3 text-light">Stay in Touch</p>
-            <p>Follow us on:</p>
-            <p>
-                <a href="#" class="fa fa-facebook text-dark text-decoration-none"></a>
-                <a href="#" class="fa fa-twitter"></a>
-                <a href="#" class="fa fa-google"></a>
-                <a href="#" class="fa fa-linkedin"></a>
-                <a href="#" class="fa fa-youtube"></a>
-                <a href="#" class="fa fa-instagram"></a>
-            </p>
-        </div>
-        <div class="col text-center text-sm-center text-md-start g-0">
-            <p class="py-3">Copyright &copy; 2022 Dental Opulence Ltd. Registered in England and Wales, UK. All rights reserved.</p>
-        </div>        
-    </div>
-</div>
+{% include footer.html %}
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
     

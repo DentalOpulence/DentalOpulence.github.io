@@ -3,7 +3,7 @@ layout: defaultnosplash
 type: nav-left
 sort: 1
 nav-class: booknow
-title: Book Now
+title: Booker Now
 hero-heading: "Book Now"
 hero-brief: "Some representative placeholder brief about booking"
 hero-button: "Learn More"
