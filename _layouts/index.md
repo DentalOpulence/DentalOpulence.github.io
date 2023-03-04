@@ -6,7 +6,7 @@ layout: root
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000" >
   <div class="carousel-inner">
       {% assign isfirst = true %}
-      {% assign sorted_pages = site.pages | where:"type", "nav-left" | sort: "sort" %}
+      {% assign sorted_pages = site.pages | where:"type", "services" | sort: "sort" %}
       {% for p in sorted_pages %}
         <div class="carousel-item {% if isfirst == true %}active{% endif %}">
       <img src="{{p.hero-image}}" class="d-block w-100" alt="...">
@@ -30,7 +30,7 @@ layout: root
     {{content}}
 
 
-      {% assign sorted_pages = site.pages | where:"type", "nav-left" | sort: "sort" %}
+      {% assign sorted_pages = site.pages | where:"type", "services" | sort: "sort" %}
       {% for p in sorted_pages %}
       {% assign remainder = forloop.index | modulo: 2 %}
   <div class="container py-5 text-light subsection g-5">

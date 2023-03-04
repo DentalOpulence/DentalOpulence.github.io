@@ -1,10 +1,13 @@
 ---
 layout: defaultnosplash
-type: nav-left
+nav: left
+sitemap: left
+type: services
 sidetype: press
 sort: 1
 nav-class: booknow
 title: Book Now
+subtitle: Our friendly staff is ready to welcome you and ensure a you have a comfortable experience
 hero-heading: "Book Now"
 hero-brief: "Some representative placeholder brief about booking"
 hero-button: "Learn More"
@@ -14,6 +17,7 @@ subsection-brief: "Some representative placeholder brief about booking"
 subsection-button: "Find out more"
 subsection-image: https://images.unsplash.com/photo-1543269664-56d93c1b41a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 subsection-color: "#3d454c" #3a3a3a" #013f47"
+thumbnail: https://images.unsplash.com/photo-1543269664-56d93c1b41a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 ---
 # {{page.title}}
 

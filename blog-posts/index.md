@@ -1,6 +1,8 @@
 ---
 layout: defaultnosplash
-type: other
+sitemap: right
+type: 
+sidetype: services
 sort: 1
 nav-class: 
 title:  "Blog Posts"

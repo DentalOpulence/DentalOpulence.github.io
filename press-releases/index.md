@@ -1,6 +1,9 @@
 ---
 layout: defaultnosplash
-type: nav-right
+nav: right
+sitemap: right
+type: 
+sidetype: services
 sort: 1
 nav-class: 
 title:  "Press Releases"

@@ -1,6 +1,9 @@
 ---
 layout: defaultnosplash
-type: nav-left
+nav: left
+sitemap: left
+type: 
+sidetype: press
 sort: 5
 nav-class: 
 title:  "Our Team"

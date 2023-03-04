@@ -1,9 +1,13 @@
 ---
 layout: defaultnosplash
-type: nav-left
+nav: left
+sitemap: left
+type: services
+sidetype: press
 sort: 2
 nav-class: 
 title: General Treatments
+subtitle: View our full list of general treatments offered by our experienced and qualified staff
 hero-heading: "Our Treatments and Services"
 hero-brief: "Some representative placeholder content for the first slide"
 hero-button: "Learn More"
@@ -13,6 +17,7 @@ subsection-brief: "Learn about our treatments & services and what we endevour in
 subsection-button: "Find out more"
 subsection-image: https://plus.unsplash.com/premium_photo-1661775741361-3b68b05900ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
 subsection-color: "#3d454c" #3a3a3a" #013f47"
+thumbnail: https://plus.unsplash.com/premium_photo-1661775741361-3b68b05900ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
 ---
 # {{page.title}}
 

@@ -1,6 +1,9 @@
 ---
 layout: defaultnosplash
-type: nav-left
+nav: left
+sitemap: left
+type: services
+sidetype: press
 sort: 4
 nav-class: 
 title:  "Referrals"

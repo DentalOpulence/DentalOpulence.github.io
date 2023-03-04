@@ -15,7 +15,7 @@ layout: root
                     {{content}}
                 </div>
                 <div class="col-lg-3 pt-5">
-                    {% include pagecards.html type=page.sidetype limit="2" %}
+                    {% include pagecards.html type=page.sidetype limit="3" %}
                 </div>
             </div>
             <div class="row my-3">
