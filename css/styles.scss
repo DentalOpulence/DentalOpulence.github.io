@@ -4,6 +4,12 @@
     background-color: black;
 }
 
+@media only screen and (min-width: 768px) {
+    .col-lg-27 {
+        width: 22.5%;
+    }
+}
+
 body {
     font-family: "Lato";
 }

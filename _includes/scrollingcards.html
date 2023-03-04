@@ -5,7 +5,7 @@
       <div class="row side-scroll">
       {% assign press_pages = site.pages | where:"type", include.type | sort: "sort" %}
       {% for p in press_pages limit:12 %}
-      <div class="py-3 col-lg-3 col-md-6 col-sm-6">
+      <div class="py-3 col-9 col-lg-27 col-md-5 col-sm-5">
         <p><a href="{{p.url}}" ><img src="{{p.thumbnail}}" width="100%"/></a></p>
         <p class="fs-6 fw-lighter"><a href="{{p.url}}" class="text-decoration-none text-light">{{ p.date | date: '%B %d, %Y' }}</a></p>
         <p><a href="{{p.url}}" class="text-decoration-none text-light">{{p.subtitle}}</a></p>
