@@ -1,0 +1,5 @@
+{% unless include.src contains 'http' %}
+  <img width="{{ include.width }}" {% if include.height %} height="{{ include.height }}" style="object-fit: cover; object-position: center;" {% endif %} src="{{ '/images/' | prepend: site.baseurl | replace: 'http://', 'https://' }}{{ include.src }}" alt="{{ include.title }}"/>
+{% else %}
+  <img width="{{ include.width }}" {% if include.height %} height="{{ include.height }}" style="object-fit: cover; object-position: center;" {% endif %} src="{{ include.src }}" alt="{{ include.title }}"/>
+{% endunless %}
