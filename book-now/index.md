@@ -1,6 +1,7 @@
 ---
 layout: defaultnosplash
 type: nav-left
+sidetype: press
 sort: 1
 nav-class: booknow
 title: Book Now

@@ -15,7 +15,7 @@ layout: root
                     {{content}}
                 </div>
                 <div class="col-lg-3 pt-5">
-                    <p>[list of cross-linked content]</p>
+                    {% include pagecards.html type=page.sidetype limit="2" %}
                 </div>
             </div>
             <div class="row my-3">
