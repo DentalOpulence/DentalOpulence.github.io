@@ -16,11 +16,11 @@
             </div>
             <div class="col-md-6 g-0">
                 <ul class="navbar-nav">
-                    {% assign sorted_pages = site.pages | where:"type", "nav-right" | sort: "sort" %}
+                    {% assign sorted_pages = site.pages | where:"type", "other" | sort: "sort" %}
                     {% for p in sorted_pages %}
                     <li class="nav-item"><a class="nav-link py-1" href="{{p.url}}">{{p.title}}</a></li>
                     {% endfor %}
-                    {% assign sorted_pages = site.pages | where:"type", "other" | sort: "sort" %}
+                    {% assign sorted_pages = site.pages | where:"type", "nav-right" | sort: "sort" %}
                     {% for p in sorted_pages %}
                         <li class="nav-item"><a class="nav-link py-1" href="{{p.url}}">{{p.title}}</a></li>
                     {% endfor %}
