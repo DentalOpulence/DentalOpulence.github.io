@@ -6,12 +6,7 @@ layout: root
         <div class="container bg-dark text-light rounded p-3 bg-content-prime mt-5">
             <div class="row p-sm-3">
                 <div class="col-lg-9">
-                    <nav aria-label="breadcrumb">
-                        <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="/index.html">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">{{page.title}}</li>
-                        </ol>
-                    </nav>
+                    {% include breadcrumbs.html %}
                     <div class="general-content">
                         {{content}}
                     </div>

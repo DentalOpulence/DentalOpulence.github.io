@@ -1,0 +1,10 @@
+<div class="row mt-0 mb-3 gx-5 gy-3">
+  {% assign press_pages = site.pages | where:"type", include.type | sort: "sort" %}
+  {% for p in press_pages limit:include.limit %}
+  <div class="col-12 col-sm-6 col-md-4">
+    <p><a href="{{p.url}}" ><img src="{{p.thumbnail}}" width="100%"/></a></p>
+    <p><a href="{{p.url}}" class="text-decoration-none text-light fw-bold">{{p.title}}</a></p>
+    <p><a href="{{p.url}}" class="text-decoration-none text-light">{{p.subtitle}}</a></p>
+  </div>
+  {% endfor %}
+</div>
