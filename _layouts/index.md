@@ -64,40 +64,13 @@ layout: root
   </div>
     
       {% if forloop.index == 1 %}
-      <div class="container-fluid p-3 py-5 p-sm-5 text-light subsection-press">
-  <div class="row">
-    <h3 class="col-9 col-md-10 fs-3 fw-lighter">Press Releases</h3>
-    <a class="mb-4 col-3 col-md-2 btn btn-outline-light" role="button">View All</a>
-    <div class="row side-scroll">
-    {% assign press_pages = site.pages | where:"type", "press" | sort: "sort" %}
-    {% for p in press_pages limit:12 %}
-    <div class="py-3 col-lg-3 col-md-6 col-sm-6">
-      <p class="fs-6 fw-lighter">{{ p.date | date: '%B %d, %Y' }}</p>
-      <p><a href="{{p.url}}" class="text-decoration-none text-light">{{p.brief}}</a></p>
-    </div>
-    {% endfor %}
-    </div>
-  </div>
-</div>
+
+      {% include scrollingcards.html title="Press Releases" type="press" %}
 
       {% endif %}
 
             {% if forloop.index == 2 %}
-      <div class="container-fluid p-3 py-5 p-sm-5 text-light subsection-blog">
-  <div class="row">
-    <h3 class="col-9 col-md-10 fs-3 fw-lighter">Blog Posts</h3>
-    <a class="mb-4 col-3 col-md-2 btn btn-outline-light" role="button">View All</a>
-    <div class="row side-scroll">
-    {% assign blog_pages = site.pages | where:"type", "blog" | sort: "sort" %}
-    {% for p in blog_pages limit:12 %}
-    <div class="py-3 col-lg-3 col-md-6 col-sm-6">
-      <p class="fs-6 fw-lighter">{{ p.date | date: '%B %d, %Y' }}</p>
-      <p><a href="{{p.url}}" class="text-decoration-none text-light">{{p.title}}</a></p>
-    </div>
-    {% endfor %}
-  </div>
-  </div>
-</div>
+      {% include scrollingcards.html title="Blog Posts" type="press" %}
 
       {% endif %}
 
