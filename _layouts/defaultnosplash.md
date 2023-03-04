@@ -4,7 +4,7 @@ layout: root
 <div class="container-fluid bg-dark py-3 py-md-5 bg-accent-prime pt-5 g-0">
     <div class="container pt-1 pt-sm-3">
         <div class="container bg-dark text-light rounded p-3 bg-content-prime mt-5">
-            <div class="row p-3">
+            <div class="row p-sm-3">
                 <div class="col-lg-9">
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
