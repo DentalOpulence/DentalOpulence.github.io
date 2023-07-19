@@ -68,13 +68,21 @@ min-height: 600px;
 max-height: 600px;
 }
 
+.home-carousel-caption {
+    //font-size: 0.7rem;
+    //right: 2em;
+}
+
 .carousel-caption {
-    text-align: left;
+    text-align: center;
     // max-width: 30em;
     // background: #00000075;
     text-shadow: black 0px 0px 7px;
-    left: 2em;
+    left: 0em;
     padding: 3em;
+    right: 0em;
+    //background: red;
+    width: 90%;
 
     h5 {
         font-size: 2em;
@@ -184,6 +192,10 @@ max-height: 600px;
     a {
         color: #a0a0a0;
     }
+}
+
+.bg-accent-secondary {
+    background-color: #383e45;
 }
 
 .logo {

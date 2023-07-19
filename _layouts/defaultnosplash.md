@@ -11,8 +11,10 @@ layout: root
                         {{content}}
                     </div>
                 </div>
-                <div class="col-lg-3 pt-5">
-                    {% include pagecards.html type=page.sidetype limit="3" %}
+                <div class="col-lg-3 pt-3 bg-accent-secondary rounded">
+                    <div class="pt-3">
+                        {% include pagecards.html type=page.sidetype limit="3" %}
+                    </div>
                 </div>
             </div>
             <div class="row my-3">

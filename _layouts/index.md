@@ -11,7 +11,7 @@ layout: root
         <div class="carousel-item {% if isfirst == true %}active{% endif %}">
       <img src="{{p.hero-image}}" class="d-block w-100" alt="...">
       <div class="carousel-caption container">
-      <div class="mx-5 px-5">
+      <div class="mx-sm-5 px-sm-5">
         <h5>{{p.hero-heading}}</h5>
         <p>{{p.hero-brief}}</p>
         <a class="btn btn-outline-light" href="{{p.url}}" role="button">{{p.hero-button}}</a>
