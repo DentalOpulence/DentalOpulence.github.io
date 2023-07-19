@@ -29,7 +29,7 @@ layout: root
 
   <div class="container py-1 py-sm-3">
       <div class="container text-light rounded p-0">
-          <div class="p-3">
+          <div class="p-3 px-5 px-sm-0">
               <div class="general-content">
                   {{content}}
               </div>
