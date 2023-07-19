@@ -12,7 +12,7 @@ hero-heading: "Ready for a more radiant smile?"
 hero-brief: "Some representative placeholder brief about booking"
 hero-button: "Book Now"
 hero-button-class: booknow-button
-hero-image: https://plus.unsplash.com/premium_photo-1661775868038-77ae66913504?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
+hero-image: https://images.unsplash.com/photo-1611166819595-ac34987dfa57?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1415&q=80
 subsection-heading: "Book Now"
 subsection-brief: Ready to take the first step toward optimal oral health? Booking an appointment with Dental Opulence is quick and convenient. Simply fill out our online booking form or give us a call, and our friendly staff will assist you in scheduling a time that suits you best.
 subsection-button: "Book Now"
