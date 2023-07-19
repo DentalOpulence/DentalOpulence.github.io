@@ -25,11 +25,19 @@ layout: root
 </div>
 </div>
 
-<div class="container-fluid pt-3  bg-accent-prime-long g-0">
+<div class="container-fluid pt-3 bg-accent-prime-long g-0">
+
+  <div class="container py-1 py-sm-3">
+      <div class="container text-light rounded p-0">
+          <div class="p-3">
+              <div class="general-content">
+                  {{content}}
+              </div>
+          </div>
+      </div>
+  </div>
+
   <div class="container g-0">
-    {{content}}
-
-
       {% assign sorted_pages = site.pages | where:"type", "services" | sort: "sort" %}
       {% for p in sorted_pages %}
       {% assign remainder = forloop.index | modulo: 2 %}
@@ -39,7 +47,7 @@ layout: root
       <div class="col-md-6 bg-primary text-light g-0 d-block d-md-none">
         <img src="{{p.subsection-image}}" class="d-block w-100" alt="...">
       </div>
-      <div class="col-md-6 p-0 my-0 p-md-5 my-md-5">
+      <div class="col-md-6 p-0 my-0 px-md-5 my-md-5">
         <div class="p-5">
           <h2>{{p.subsection-heading}}</h2>
           <p>{{p.subsection-brief}}</p>
@@ -53,7 +61,7 @@ layout: root
       <div class="col-md-6 bg-primary text-light g-0">
         <img src="{{p.subsection-image}}" class="d-block w-100" alt="...">
       </div>
-      <div class="col-md-6 p-0 my-0 p-md-5 my-md-5">
+      <div class="col-md-6 p-0 my-0 px-md-5 my-md-5">
         <div class="p-5">
           <h2>{{p.subsection-heading}}</h2>
           <p>{{p.subsection-brief}}</p>
