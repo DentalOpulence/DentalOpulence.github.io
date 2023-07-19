@@ -51,7 +51,7 @@ layout: root
         <div class="p-5">
           <h2>{{p.subsection-heading}}</h2>
           <p>{{p.subsection-brief}}</p>
-          <a class="btn btn-outline-light" href="{{p.url}}" role="button">{{p.subsection-button}}</a>
+          <a class="btn btn-outline-light {{p.subsection-button-class}}" href="{{p.url}}" role="button">{{p.subsection-button}}</a>
         </div>
       </div>
       <div class="col-md-6 bg-primary text-light g-0 d-none d-sm-none d-md-block">
@@ -65,7 +65,7 @@ layout: root
         <div class="p-5">
           <h2>{{p.subsection-heading}}</h2>
           <p>{{p.subsection-brief}}</p>
-          <a class="btn btn-outline-light" href="{{p.url}}" role="button">{{p.subsection-button}}</a>
+          <a class="btn btn-outline-light {{p.subsection-button-class}}" href="{{p.url}}" role="button">{{p.subsection-button}}</a>
         </div>
       </div>
       
