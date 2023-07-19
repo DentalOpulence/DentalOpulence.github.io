@@ -6,13 +6,13 @@ layout: root
         <div class="container bg-dark text-light rounded p-3 bg-content-prime mt-5">
             <div class="row p-sm-3">
                 <div class="col-lg-9">
-                    {% include breadcrumbs.html %}
+                    {% include breadcrumbs.html hidelast=page.breadcrumb-hidelast %}
                     <div class="general-content">
                         {{content}}
                     </div>
                 </div>
-                <div class="col-lg-3 pt-3 bg-accent-secondary rounded">
-                    <div class="pt-3">
+                <div class="col-lg-3 p-4 pb-0 bg-accent-secondary rounded d-none d-sm-block">
+                    <div class="notpt-3">
                         {% include pagecards.html type=page.sidetype limit="3" %}
                     </div>
                 </div>
