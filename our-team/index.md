@@ -8,7 +8,7 @@ sort: 5
 nav-class: 
 title:  "Our Team"
 subtitle: We are a crew of qualified professional experts, working to put a smile on your face
-hero-heading: "Our ethos..."
+hero-heading: "See our expert team"
 hero-brief: "Some representative placeholder content for the first slide"
 hero-button: "Learn More"
 hero-image: https://images.unsplash.com/photo-1521996319423-90475f382dff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1772&q=80

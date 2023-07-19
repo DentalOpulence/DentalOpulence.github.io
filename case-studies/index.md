@@ -8,7 +8,7 @@ sort: 4
 nav-class: 
 title:  "Case Studies"
 subtitle: Our qualified team of experts have compiled a list of success stories for your peace of mind
-hero-heading: "Case Studies"
+hero-heading: "See our case studies"
 hero-brief: "Some representative placeholder content for the first slide"
 hero-button: "Learn More"
 hero-image: https://plus.unsplash.com/premium_photo-1661600513061-80f4a662375d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80

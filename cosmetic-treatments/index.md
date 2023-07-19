@@ -8,7 +8,7 @@ sort: 3
 nav-class: 
 title:  "Cosmetic Treatments"
 subtitle: We offer a range of expert cosmetic treatments through our seasoned professional staff
-hero-heading: "Our Cosmetic Services and Treatments"
+hero-heading: "View our cosmetic treatments"
 hero-brief: "Some representative placeholder content for the first slide"
 hero-button: "Learn More"
 hero-image: https://images.unsplash.com/photo-1513210191510-69220f40601d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
