@@ -10,7 +10,7 @@ layout: root
       {% for p in sorted_pages %}
         <div class="carousel-item {% if isfirst == true %}active{% endif %}">
       <img src="{{p.hero-image}}" class="d-block w-100" alt="...">
-      <div class="carousel-caption container bg-frost rounded">
+      <div class="carousel-caption container notbg-frost rounded">
       <div class="mx-sm-5 px-sm-5">
         <h5>{{p.hero-heading}}</h5>
         <!--<p>{{p.hero-brief}}</p>-->
@@ -25,9 +25,9 @@ layout: root
 </div>
 </div>
 
-<div class="container-fluid pt-3 bg-accent-prime-long g-0">
+<div class="container-fluid notpt-3 bg-accent-prime-long g-0">
 
-  <div class="container py-1 py-sm-3">
+  <!--<div class="container py-1 py-sm-3">
       <div class="container text-light rounded p-0">
           <div class="p-3 px-5 px-sm-0">
               <div class="general-content">
@@ -35,13 +35,13 @@ layout: root
               </div>
           </div>
       </div>
-  </div>
+  </div>-->
 
   <div class="container g-0">
       {% assign sorted_pages = site.pages | where:"type", "services" | sort: "sort" %}
       {% for p in sorted_pages %}
       {% assign remainder = forloop.index | modulo: 2 %}
-  <div class="container py-5 text-light subsection g-5">
+  <div class="container pt-3 pt-sm-5 text-light subsection g-5">
     <div class="row" style="background-color:{{p.subsection-color}}">
       {% if remainder == 1 %}
       <div class="col-md-6 bg-primary text-light g-0 d-block d-md-none">
@@ -50,7 +50,7 @@ layout: root
       <div class="col-md-6 p-0 my-0 px-md-5 my-md-5">
         <div class="p-5">
           <h2>{{p.subsection-heading}}</h2>
-          <p>{{p.subsection-brief}}</p>
+          <p>{{p.subsection-brief | markdownify}}</p>
           <a class="btn btn-outline-light {{p.subsection-button-class}}" href="{{p.url}}" role="button">{{p.subsection-button}}</a>
         </div>
       </div>
@@ -64,7 +64,7 @@ layout: root
       <div class="col-md-6 p-0 my-0 px-md-5 my-md-5">
         <div class="p-5">
           <h2>{{p.subsection-heading}}</h2>
-          <p>{{p.subsection-brief}}</p>
+          <p>{{p.subsection-brief | markdownify}}</p>
           <a class="btn btn-outline-light {{p.subsection-button-class}}" href="{{p.url}}" role="button">{{p.subsection-button}}</a>
         </div>
       </div>
@@ -73,14 +73,14 @@ layout: root
     </div>
   </div>
     
-      {% if forloop.index == 1 %}
+      {% if forloop.index == 2 %}
 
-      {% include scrollingcards.html title="Press Releases" type="press" %}
+      {% include scrollingcards.html title="General Treatments" type="general-treatments" %}
 
       {% endif %}
 
-            {% if forloop.index == 2 %}
-      {% include scrollingcards.html title="Blog Posts" type="press" %}
+            {% if forloop.index == 3 %}
+      {% include scrollingcards.html title="Cosmetic Treatments" type="cosmetic-treatments" %}
 
       {% endif %}
 
