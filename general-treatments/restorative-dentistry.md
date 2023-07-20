@@ -3,7 +3,7 @@ layout: defaultnosplash
 nav: 
 sitemap: 
 type: general-treatments
-sidetype: press
+sidetype: general-treatments
 sort: 2
 nav-class: 
 title: Restorative Dentistry
@@ -28,33 +28,19 @@ With our advanced techniques and personalized approach, we can help you regain y
 
 We offer a comprehensive range of restorative dentistry services tailored to address your unique dental needs:
 
-### Dental Implants
+- **Dental Implants** - Dental implants are a reliable and long-lasting solution for replacing missing teeth. Our skilled implant specialists can surgically place implants to provide a strong foundation for custom-made dental crowns, bridges, or even full arches of replacement teeth.
 
-Dental implants are a reliable and long-lasting solution for replacing missing teeth. Our skilled implant specialists can surgically place implants to provide a strong foundation for custom-made dental crowns, bridges, or even full arches of replacement teeth.
+- **Dental Crowns** - Dental crowns are custom-made tooth-shaped caps that cover damaged or weakened teeth, restoring their strength, shape, and appearance. Crowns can be made from various materials, including porcelain, ceramic, or metal, depending on your specific needs and preferences.
 
-### Dental Crowns
+- **Dental Bridges** - Dental bridges are used to replace one or more missing teeth. They consist of one or more artificial teeth, known as pontics, which are anchored to neighboring teeth or dental implants to fill the gap left by missing teeth.
 
-Dental crowns are custom-made tooth-shaped caps that cover damaged or weakened teeth, restoring their strength, shape, and appearance. Crowns can be made from various materials, including porcelain, ceramic, or metal, depending on your specific needs and preferences.
+- **Dentures** - Dentures are removable appliances that replace multiple missing teeth. We offer both complete dentures, which replace a full arch of teeth, and partial dentures, which fill in gaps when some natural teeth remain.
 
-### Dental Bridges
+- **Inlays and Onlays** - Inlays and onlays are custom-made restorations that are used to repair moderately damaged or decayed teeth. They are created in a dental laboratory and then bonded to the affected tooth, providing both strength and a natural appearance.
 
-Dental bridges are used to replace one or more missing teeth. They consist of one or more artificial teeth, known as pontics, which are anchored to neighboring teeth or dental implants to fill the gap left by missing teeth.
+- **Composite Fillings** - Composite fillings, also known as tooth-colored fillings, are used to repair teeth that have been affected by decay or small fractures. The filling material is matched to the color of your natural teeth, ensuring a seamless and aesthetically pleasing restoration.
 
-### Dentures
-
-Dentures are removable appliances that replace multiple missing teeth. We offer both complete dentures, which replace a full arch of teeth, and partial dentures, which fill in gaps when some natural teeth remain.
-
-### Inlays and Onlays
-
-Inlays and onlays are custom-made restorations that are used to repair moderately damaged or decayed teeth. They are created in a dental laboratory and then bonded to the affected tooth, providing both strength and a natural appearance.
-
-### Composite Fillings
-
-Composite fillings, also known as tooth-colored fillings, are used to repair teeth that have been affected by decay or small fractures. The filling material is matched to the color of your natural teeth, ensuring a seamless and aesthetically pleasing restoration.
-
-### Full Mouth Reconstruction
-
-In cases where multiple dental issues are present, our skilled team can create a comprehensive treatment plan to restore your oral health and function. Full mouth reconstruction may involve a combination of restorative treatments, including implants, crowns, bridges, and more, to create a harmonious and fully functional smile.
+- **Full Mouth Reconstruction** - In cases where multiple dental issues are present, our skilled team can create a comprehensive treatment plan to restore your oral health and function. Full mouth reconstruction may involve a combination of restorative treatments, including implants, crowns, bridges, and more, to create a harmonious and fully functional smile.
 
 ----
 
