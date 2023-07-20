@@ -14,9 +14,15 @@ breadcrumb-hidelast: true
 
 # Restorative Dentistry
 
-At Dental Opulence, we understand the importance of a healthy, functional, and beautiful smile. Our restorative dentistry services are designed to repair and restore damaged or missing teeth, improving both the aesthetics and functionality of your smile. With our advanced techniques and personalized approach, we can help you regain your confidence and enjoy a smile that looks and feels natural.
+## At Dental Opulence, we understand the importance of a healthy, functional, and beautiful smile. 
 
 {% include image.html lightbox="false" src=page.thumbnail data="group" title="Image title" width="100%" height="350px" %}
+
+Our restorative dentistry services are designed to repair and restore damaged or missing teeth, improving both the aesthetics and functionality of your smile.
+
+With our advanced techniques and personalized approach, we can help you regain your confidence and enjoy a smile that looks and feels natural.
+
+----
 
 ## Restorative Solutions
 

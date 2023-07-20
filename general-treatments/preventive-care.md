@@ -3,7 +3,7 @@ layout: defaultnosplash
 nav: 
 sitemap: 
 type: general-treatments
-sidetype: press
+sidetype: general-treatments
 sort: 2
 nav-class: 
 title: Preventive Care
