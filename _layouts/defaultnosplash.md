@@ -11,7 +11,7 @@ layout: root
                         {{content}}
                     </div>
                 </div>
-                <div class="col-lg-3 d-none d-sm-block">
+                <div class="col-lg-3 notd-none notd-sm-block pt-5 pt-sm-0">
                     <p class="small">Also of interest ...</p>
                     <div class="notpt-3 p-4 pb-1 bg-accent-secondary rounded">
                         {% include pagecards.html type=page.sidetype limit="5" %}
