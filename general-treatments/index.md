@@ -11,7 +11,7 @@ subtitle: View our full list of general treatments offered by our experienced an
 hero-heading: "View our general treatments"
 hero-brief: "Some representative placeholder content for the first slide"
 hero-button: "Learn More"
-hero-image: https://plus.unsplash.com/premium_photo-1661775868038-77ae66913504?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
+hero-image: https://images.unsplash.com/photo-1520451160208-a741e481c527?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 subsection-heading: "Our General Treatments"
 subsection-brief: At Dental Opulence, we offer a comprehensive range of general dental treatments to ensure the health and longevity of your teeth and gums. Our experienced team is dedicated to preventive care, early diagnosis, and conservative treatment approaches.
 subsection-button: "Find out more"
