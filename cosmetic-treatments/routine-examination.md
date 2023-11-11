@@ -16,7 +16,7 @@ breadcrumb-hidelast: true
 
 At our dental practice, we believe in providing top-quality care to all of our patients. That's why we recommend regular routine examinations as an essential part of maintaining a healthy and beautiful smile. Our comprehensive examination is designed to provide a thorough assessment of your oral health and identify any potential issues.
 
-{% include image.html lightbox="false" src=page.hero-image data="group" title="Image title" width="100%" height="350px" %}
+{% include image.html lightbox="false" src=page.thumbnail data="group" title="Image title" width="100%" height="350px" %}
 
 During your visit, one of our experienced dentists will conduct a thorough examination of your teeth, gums, and mouth, checking for cavities, signs of gum disease, and any other potential oral health concerns. They'll also take digital X-rays, which provide a detailed view of your teeth, roots, and jaw. With this information, our dentist will be able to develop a personalised treatment plan to address any issues and help you achieve optimal oral health.
 
