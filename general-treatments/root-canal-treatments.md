@@ -4,7 +4,7 @@ nav:
 sitemap: 
 type: general-treatments
 sidetype: general-treatments
-sort: 5
+sort: 8
 nav-class: 
 title: Root Canal Treatments
 subtitle: A root canal treatment is a procedure used to save a tooth that has been infected or is at risk of infection.
