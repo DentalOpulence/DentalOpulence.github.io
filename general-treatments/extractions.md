@@ -4,7 +4,7 @@ nav:
 sitemap: 
 type: general-treatments
 sidetype: general-treatments
-sort: 4
+sort: 7
 nav-class: 
 title: Extractions
 subtitle: We understand that the thought of a tooth extraction can be stressful. We strive to make the extraction process as comfortable and anxiety-free as possible.
