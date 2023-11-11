@@ -25,7 +25,7 @@ layout: root
 </div>
 </div>
 
-<div class="container-fluid notpt-3 bg-accent-prime-long g-0">
+<div class="container-fluid notpt-3 bg-accent-prime-long-not g-0">
 
   <!--<div class="container py-1 py-sm-3">
       <div class="container text-light rounded p-0">
