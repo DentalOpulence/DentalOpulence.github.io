@@ -16,7 +16,7 @@ subsection-heading: "View Case Studies"
 subsection-brief: These real-life examples showcase the expertise and attention to detail that sets Dental Opulence apart. Be inspired by the success stories and envision the possibilities for your own smile transformation.
 subsection-button: "Find out more"
 subsection-image: https://images.unsplash.com/photo-1488508872907-592763824245?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
-subsection-color: "#3d454c" #3a3a3a" #0285bb"
+subsection-color: "#c3aea8" #3d454c #3a3a3a #013f47
 thumbnail: https://images.unsplash.com/photo-1515016446269-8b0cb089b52d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
 ---
 # Case Studies
