@@ -23,7 +23,7 @@ subsection-brief: |
 subsection-button: "Book Now"
 subsection-button-class: booknow-button
 subsection-image: https://images.unsplash.com/photo-1543269664-56d93c1b41a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
-subsection-color: "#3d454c" #3a3a3a" #013f47"
+subsection-color: "#c3aea8" "#3d454c" #3a3a3a" #013f47"
 thumbnail: https://images.unsplash.com/photo-1543269664-56d93c1b41a6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 ---
 # {{page.title}}
