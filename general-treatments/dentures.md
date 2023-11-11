@@ -4,7 +4,7 @@ nav:
 sitemap: 
 type: general-treatments
 sidetype: general-treatments
-sort: 5
+sort: 6
 nav-class: 
 title: Dentures
 subtitle: We offer partial and complete dentures as solutions for replacing missing teeth.
