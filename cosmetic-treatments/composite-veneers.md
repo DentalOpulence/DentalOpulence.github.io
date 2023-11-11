@@ -4,7 +4,7 @@ nav:
 sitemap: 
 type: cosmetic-treatments
 sidetype: cosmetic-treatments
-sort: 5
+sort: 6
 nav-class: 
 title: Composite Veneers
 subtitle: We offer composite veneers as a cosmetic solution for improving the appearance of your teeth.
