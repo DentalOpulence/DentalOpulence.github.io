@@ -205,6 +205,13 @@ max-height: 600px;
     background-color: #c3aea8;
 }
 
+.bg-light-primary-reverse {
+    background-image: linear-gradient(transparent, #c3aea8));
+    //background-repeat: no-repeat;
+    //background-position: 50% 0;
+    //background-size: cover;
+}
+
 .bg-accent-secondary {
     background-color: #383e45;
 }
