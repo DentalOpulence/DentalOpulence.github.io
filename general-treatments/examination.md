@@ -7,7 +7,7 @@ sidetype: general-treatments
 sort: 1
 nav-class: 
 title: Examination
-subtitle: Regular check-ups, professional cleanings, and dental hygiene education to keep your smile healthy and prevent future problems.
+subtitle: Our comprehensive dental examination is designed to not only assess your oral health but also improve the appearance of your smile.
 thumbnail: https://images.unsplash.com/photo-1523464862212-d6631d073194?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 breadcrumb-hidelast: true
 ---
