@@ -1,7 +1,7 @@
 ---
 layout: root
 ---
-<div class="container-fluid bg-dark g-0">
+<div class="container-fluid bg-dark-not g-0">
 <div class="container-fluid g-0">
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000" >
   <div class="carousel-inner">
