@@ -16,7 +16,7 @@ subsection-heading: "Our Cosmetic Treatments"
 subsection-brief: Enhance the appearance of your smile with our exceptional cosmetic dental treatments. From teeth whitening and veneers to orthodontic options and smile makeovers, our skilled cosmetic dentists will customize a treatment plan to suit your unique goals.
 subsection-button: "Find out more"
 subsection-image: https://images.unsplash.com/photo-1515016446269-8b0cb089b52d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
-subsection-color: "#3d454c" #3a3a3a" #0285bb"
+subsection-color: "#c3aea8" #3d454c #3a3a3a #013f47
 thumbnail: https://images.unsplash.com/photo-1515016446269-8b0cb089b52d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
 ---
 # Cosmetic Treatments
