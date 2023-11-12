@@ -16,7 +16,7 @@ subsection-heading: "Our General Treatments"
 subsection-brief: At Dental Opulence, we offer a comprehensive range of general dental treatments to ensure the health and longevity of your teeth and gums. Our experienced team is dedicated to preventive care, early diagnosis, and conservative treatment approaches.
 subsection-button: "Find out more"
 subsection-image: https://plus.unsplash.com/premium_photo-1661775741361-3b68b05900ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
-subsection-color: "#c3aea8" #3d454c #3a3a3a #013f47
+subsection-color: "#332a27" #c3aea8 #3d454c #3a3a3a #013f47
 thumbnail: https://plus.unsplash.com/premium_photo-1661775741361-3b68b05900ee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
 ---
 
