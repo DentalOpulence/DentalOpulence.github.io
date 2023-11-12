@@ -1,7 +1,7 @@
 ---
 layout: root
 ---
-<div class="container-fluid bg-dark-not py-3 py-md-5 bg-accent-prime pt-5 g-0">
+<div class="container-fluid bg-dark-not py-3 py-md-5 bg-accent-prime-not pt-5 g-0">
     <div class="container pt-1 pt-sm-3">
         <div class="container bg-dark text-light rounded p-3 bg-content-prime mt-5 bg-light-dark">
             <div class="p-sm-3">
