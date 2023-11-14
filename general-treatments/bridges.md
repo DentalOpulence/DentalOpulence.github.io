@@ -24,4 +24,3 @@ Our skilled dentists will work with you to determine the best solution for your 
 
 We understand that missing teeth can affect not only your oral health but also your self-confidence and quality of life, which is why we make it a priority to replace missing teeth with a dental bridge or other options. Contact us today to schedule your appointment and learn more about how a dental bridge can benefit you and give you the smile you've always wanted.
 
-Test
