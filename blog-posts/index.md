@@ -1,6 +1,6 @@
 ---
 layout: defaultnosplash
-sitemap: right
+sitemap: notyet-right
 type: 
 sidetype: services
 sort: 1
