@@ -1,7 +1,7 @@
 ---
 layout: defaultnosplashnoside
-nav: left
-sitemap: left
+nav: notyet-left
+sitemap: notyet-left
 type: notyet-services
 sidetype: press
 sort: 4
