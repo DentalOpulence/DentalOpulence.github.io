@@ -1,7 +1,7 @@
 ---
 layout: defaultnosplash
-nav: right
-sitemap: right
+nav: notyet-right
+sitemap: notyet-right
 type: 
 sidetype: services
 sort: 1
