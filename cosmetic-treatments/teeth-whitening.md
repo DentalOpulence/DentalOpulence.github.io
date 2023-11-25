@@ -8,7 +8,7 @@ sort: 7
 nav-class: 
 title: Teeth Whitening
 subtitle: We offer composite edge bonding as a cosmetic solution for improving the appearance of your teeth.
-thumbnail: https://images.unsplash.com/photo-1466193341027-56e68017ee2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+thumbnail: https://images.unsplash.com/photo-1495112612632-9c7423865423?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 breadcrumb-hidelast: true
 ---
 
