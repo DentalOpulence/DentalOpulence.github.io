@@ -8,7 +8,7 @@ sort: 1
 nav-class: 
 title: Examination
 subtitle: Our comprehensive dental examination is designed to not only assess your oral health but also improve the appearance of your smile.
-thumbnail: https://images.unsplash.com/photo-1590649880765-91b1956b8276?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+thumbnail: https://images.unsplash.com/photo-1522849696084-818b29dfe210?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 breadcrumb-hidelast: true
 ---
 
