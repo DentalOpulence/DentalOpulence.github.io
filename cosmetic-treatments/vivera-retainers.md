@@ -8,9 +8,10 @@ sort: 11
 nav-class: 
 title: Vivera Retainers
 subtitle: We offer Vivera retainers as a convenient and comfortable solution for maintaining your beautiful new smile.
-thumbnail: https://images.unsplash.com/photo-1607960402012-7041136af2c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+thumbnail: https://images.unsplash.com/photo-1656623944690-9366fb1aba9b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 breadcrumb-hidelast: true
 ---
+
 
 # Vivera Retainers
 
