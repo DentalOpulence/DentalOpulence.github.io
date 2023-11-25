@@ -8,7 +8,7 @@ sort: 2
 nav-class: 
 title: Hygienist
 subtitle: Our hygienists are dedicated to providing personalised and gentle care to ensure that your teeth and gums are clean and healthy.
-thumbnail: https://images.unsplash.com/photo-1544507888-56d73eb6046e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80
+thumbnail: https://images.unsplash.com/photo-1606811951341-756fdd437682?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 breadcrumb-hidelast: true
 ---
 
