@@ -8,7 +8,7 @@ sort: 10
 nav-class: 
 title: Invisalign
 subtitle: Invisalign is a modern alternative to traditional braces and it uses a series of custom-made, clear aligners to gradually shift your teeth into the desired position.
-thumbnail: https://images.unsplash.com/photo-1607960402012-7041136af2c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+thumbnail: https://images.unsplash.com/photo-1667133295315-820bb6481730?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 breadcrumb-hidelast: true
 ---
 
