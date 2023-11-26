@@ -34,7 +34,7 @@ Ready to prioritize your oral health and embark on a journey towards a healthier
 
 To schedule your appointment, please click on the button below:
 
-[Start Booking](https://dentalopulence.dentr.net/login){: .btn .btn-default }{:target="_blank"}{:rel="noopener noreferrer"}
+[Start Booking](https://dentalopulence.dentr.net/login){: .btn .btn-danger }{:target="_blank"}{:rel="noopener noreferrer"}
 
 Alternatively, please call us on 0121 272 9229.
 
