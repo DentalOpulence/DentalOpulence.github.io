@@ -291,4 +291,12 @@ h4 {
 .pricelisttable {
     width: 400px;
     margin-bottom: 50px;
+
+    tr:first-of-type td{
+        padding: 10px 0 10px 0;
+    }
+    
+    td {
+        padding: 5px 0 5px 0;
+    }
 }
