@@ -1,6 +1,6 @@
 ---
 layout: defaultnosplashnoside
-nav: right
+nav: left
 sitemap: right
 type: 
 sidetype: services
