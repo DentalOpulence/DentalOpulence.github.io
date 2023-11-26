@@ -1,4 +1,3 @@
-![image](https://github.com/DentalOpulence/DentalOpulence.github.io/assets/67962264/3303e4a1-abf2-4e95-8847-6285151115c3)---
 layout: defaultnosplashnoside
 nav: left
 sitemap: left
