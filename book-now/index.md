@@ -32,8 +32,10 @@ Ready to prioritize your oral health and embark on a journey towards a healthier
 
 {% include image.html lightbox="false" src=page.hero-image data="group" title="Image title" width="100%" height="250px" %}
 
-To schedule your appointment, simply fill out our user-friendly online booking form or give us a call. Our friendly and knowledgeable staff will be delighted to assist you in finding a suitable time slot that accommodates your schedule.
+To schedule your appointment, please click on the button below:
 
-At Dental Opulence, we prioritize your comfort and aim to provide exceptional care from the moment you book your appointment. Our team of dedicated professionals is committed to ensuring your visit is stress-free and tailored to your unique needs.
+[Start Booking]({'https://dentalopulence.dentr.net/login' }){: .btn .btn-default }
 
-Take the first step towards optimal oral health and book your appointment with Dental Opulence today. We look forward to welcoming you to our state-of-the-art facility and providing you with exceptional dental care that will leave you smiling confidently.
+Alternatively, please call us on 0121 272 9229.
+
+
