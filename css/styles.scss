@@ -305,5 +305,9 @@ h4 {
         td:first-of-type{
             width: 80%
         }
+
+        td:last-of-type{
+            text-align: right;
+        }
     }
 }
