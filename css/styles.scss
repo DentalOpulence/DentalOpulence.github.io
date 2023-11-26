@@ -292,9 +292,10 @@ h4 {
     max-width: 400px;
     margin-bottom: 50px;
     min-width: 100%;
+    border: 1px solid #ffffff42;
 
     tr:first-of-type td{
-        padding: 10px 0 10px 0;
+        padding: 10px 5px 10px 5px;
         border-top: initial;
         background: #ffffff2b;
     }
