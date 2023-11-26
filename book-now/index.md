@@ -1,5 +1,5 @@
 ---
-layout: defaultnosplash
+layout: defaultnosplashnoside
 nav: left
 sitemap: left
 type: services
