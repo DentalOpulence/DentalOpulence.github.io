@@ -1,3 +1,4 @@
+---
 layout: defaultnosplashnoside
 nav: left
 sitemap: left
