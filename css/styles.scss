@@ -295,6 +295,8 @@ h4 {
 
     tr:first-of-type td{
         padding: 10px 0 10px 0;
+        border-top: initial;
+        background: #ffffff2b;
     }
     
     td {
@@ -302,6 +304,8 @@ h4 {
     }
 
     tr {
+        border-top: 1px solid #ffffff42;
+        
         td:first-of-type{
             width: 80%
         }
