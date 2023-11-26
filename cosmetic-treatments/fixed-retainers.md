@@ -8,7 +8,7 @@ sort: 12
 nav-class: 
 title: Fixed Retainers
 subtitle: We offer fixed retainers as a convenient and comfortable solution for maintaining your beautiful new smile, in conjunction with removable retainers.
-thumbnail: https://images.unsplash.com/photo-1607960402012-7041136af2c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+thumbnail: https://images.unsplash.com/photo-1677026010083-78ec7f1b84ed?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 breadcrumb-hidelast: true
 ---
 
