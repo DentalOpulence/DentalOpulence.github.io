@@ -4,7 +4,7 @@ nav: left
 sitemap: right
 type: 
 sidetype: services
-sort: 2
+sort: 6
 nav-class: 
 title:  "Contact Us"
 ---
