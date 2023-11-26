@@ -10,7 +10,7 @@ title:  "Price List"
 ---
 # {{page.title}}
 
-General Dentistry | ------	
+**General Dentistry** ------ | **Price**	
 New Examination (includes X-rays)	| £69
 Routine Examination (checkup)	| £49
 Hygienist visit	| £79
