@@ -289,8 +289,9 @@ h4 {
 }
 
 .pricelisttable {
-    width: 400px;
+    max-width: 400px;
     margin-bottom: 50px;
+    min-width: 100%;
 
     tr:first-of-type td{
         padding: 10px 0 10px 0;
